@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExamplesCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D0ED14-F9D5-4C81-BE74-C482726DCABA}|..\\SyncExampleCSpart2\\SyncExampleCSpart2.csproj|c:\\users\\ilkap\\downloads\\syncexamplescs\\syncexamplecspart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D0ED14-F9D5-4C81-BE74-C482726DCABA}|..\\SyncExampleCSpart2\\SyncExampleCSpart2.csproj|c:\\users\\ilkap\\downloads\\syncexamplescs\\syncexamplecspart2\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D0ED14-F9D5-4C81-BE74-C482726DCABA}|..\\SyncExampleCSpart2\\SyncExampleCSpart2.csproj|c:\\users\\ilkap\\downloads\\syncexamplescs\\syncexamplecspart2\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D0ED14-F9D5-4C81-BE74-C482726DCABA}|..\\SyncExampleCSpart2\\SyncExampleCSpart2.csproj|c:\\users\\ilkap\\downloads\\syncexamplescs\\syncexamplecspart2\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D0ED14-F9D5-4C81-BE74-C482726DCABA}|..\\SyncExampleCSpart2\\SyncExampleCSpart2.csproj|c:\\users\\ilkap\\downloads\\syncexamplescs\\syncexamplecspart2\\stamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Clients.cs",
+              "RelativeDocumentMoniker": "..\\SyncExampleCSpart2\\Clients.cs",
+              "ToolTip": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Clients.cs",
+              "RelativeToolTip": "..\\SyncExampleCSpart2\\Clients.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:36:14.139Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\BankAccount.cs",
+              "RelativeDocumentMoniker": "..\\SyncExampleCSpart2\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\BankAccount.cs",
+              "RelativeToolTip": "..\\SyncExampleCSpart2\\BankAccount.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:18:02.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SyncExampleCSpart2\\Program.cs",
+              "ToolTip": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Program.cs",
+              "RelativeToolTip": "..\\SyncExampleCSpart2\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:36:13.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Security.cs",
+              "RelativeDocumentMoniker": "..\\SyncExampleCSpart2\\Security.cs",
+              "ToolTip": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Security.cs",
+              "RelativeToolTip": "..\\SyncExampleCSpart2\\Security.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:36:12.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stamp.cs",
+              "DocumentMoniker": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Stamp.cs",
+              "RelativeDocumentMoniker": "..\\SyncExampleCSpart2\\Stamp.cs",
+              "ToolTip": "C:\\Users\\ilkap\\Downloads\\SyncExamplesCS\\SyncExampleCSpart2\\Stamp.cs",
+              "RelativeToolTip": "..\\SyncExampleCSpart2\\Stamp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:36:11.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

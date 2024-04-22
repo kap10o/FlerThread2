@@ -1,0 +1,14 @@
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\bin\Debug\net8.0\SyncExampleCSpart2.exe
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\bin\Debug\net8.0\SyncExampleCSpart2.deps.json
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\bin\Debug\net8.0\SyncExampleCSpart2.runtimeconfig.json
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\bin\Debug\net8.0\SyncExampleCSpart2.dll
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\bin\Debug\net8.0\SyncExampleCSpart2.pdb
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\SyncExampleCSpart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\SyncExampleCSpart2.AssemblyInfoInputs.cache
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\SyncExampleCSpart2.AssemblyInfo.cs
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\SyncExampleCSpart2.csproj.CoreCompileInputs.cache
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\SyncExampleCSpart2.dll
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\refint\SyncExampleCSpart2.dll
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\SyncExampleCSpart2.pdb
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\SyncExampleCSpart2.genruntimeconfig.cache
+C:\Users\ilkap\Downloads\SyncExamplesCS\SyncExampleCSpart2\obj\Debug\net8.0\ref\SyncExampleCSpart2.dll

@@ -23,7 +23,7 @@ namespace SyncExamplesCS
             foreach (var thread in clientThreads)
             {
                 thread.Start();
-                thread.Join();
+                //thread.Join();
             }
 
             double totalAmountTransactioned = 0;

@@ -21,6 +21,7 @@ namespace SyncExamplesCS
         {
             lock (lockObject)
             {
+                Console.WriteLine("Locked");
                 lock (lockObject2)
                 {
                     Console.WriteLine($"Client {clientId} is inside the transfer method.");
@@ -34,9 +35,10 @@ namespace SyncExamplesCS
         }
         public void Transaction2(double amount, int clientId)
         {
-            lock (lockObject2)
+            lock (lockObject)
             {
-                lock (lockObject)
+                Console.WriteLine("Locked2");
+                lock (lockObject2)
                 {
                     Console.WriteLine($"Client {clientId} is inside the transfer2 method.");
                     security.MakePreTransactionStamp(balance, clientId);
@@ -52,9 +54,9 @@ namespace SyncExamplesCS
         {
             get
             {
-                lock (lockObject)
+                //lock (lockObject)
                 {
-                    lock (lockObject2)
+                    //lock (lockObject2)
                     {
                         return balance;
                     }

@@ -1,0 +1,15 @@
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\bin\Debug\net7.0\SyncExamplesCS.exe
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\bin\Debug\net7.0\SyncExamplesCS.deps.json
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\bin\Debug\net7.0\SyncExamplesCS.runtimeconfig.json
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\bin\Debug\net7.0\SyncExamplesCS.dll
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\bin\Debug\net7.0\SyncExamplesCS.pdb
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.csproj.AssemblyReference.cache
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.AssemblyInfoInputs.cache
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.AssemblyInfo.cs
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.csproj.CoreCompileInputs.cache
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.dll
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\refint\SyncExamplesCS.dll
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.pdb
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\SyncExamplesCS.genruntimeconfig.cache
+C:\Users\ap1077\Documents\GitHub\FlerThread2\SyncExamplesCS\SyncExamplesCS\obj\Debug\net7.0\ref\SyncExamplesCS.dll

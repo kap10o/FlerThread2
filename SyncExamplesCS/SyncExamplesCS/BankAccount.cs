@@ -18,7 +18,7 @@ namespace SyncExamplesCS
 
         public void Transaction(double amount, int clientId)
         {
-            lock (lockObject)
+            //lock (lockObject)
             {
                     security.MakePreTransactionStamp(balance, clientId);
                     balance += amount;
@@ -32,7 +32,7 @@ namespace SyncExamplesCS
         {
             get
             {
-                lock (lockObject)
+                //lock (lockObject)
                 {
                     return balance;
                 }
